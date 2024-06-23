@@ -25,6 +25,7 @@ License along with this library; if not, see
 
 #include <cstring>
 #include <string>
+#include <stdint.h>
 
 class Processor;
 class Module;
